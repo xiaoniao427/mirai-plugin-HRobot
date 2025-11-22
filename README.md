@@ -1,7 +1,5 @@
 # Mirai-Plugin-HRobot
 
-![](https://github.com/ShrBox/ACGPro/workflows/Java%20CI%20with%20Gradle/badge.svg)  ![](https://img.shields.io/badge/Author-Happysnaker-green.svg)  ![](https://img.shields.io/badge/Name-HRobot-green.svg)
-
 mirai 群聊机器人插件，支持发送涩图(可指定tag)、美图、风景图等，支持随机鸡汤发送，支持坎公骑冠剑会战统计、前线报道、会战报表等功能，支持在线点歌，综合多个音乐平台发送最佳音乐，支持简单对话聊天，更多功能正在开发。
 
 ## 快速使用
